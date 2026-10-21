@@ -1,0 +1,34 @@
+
+If you're a QA Engineer and not confident in Playwright yet — this list is for you 🔥
+
+🔹 Basic to Advanced Playwright Interview Questions:
+1️⃣ What makes Playwright different from Selenium?
+2️⃣ How does Playwright handle auto-waiting?
+3️⃣ What is the difference between page.locator() and page.$()?
+4️⃣ How do you handle multiple browser contexts in Playwright?
+5️⃣ How to run tests in parallel in Playwright?
+6️⃣ What is the use of test.describe() and test.beforeEach()?
+7️⃣ How do you handle frames and iframes?
+8️⃣ How do you capture screenshots and videos on failure?
+9️⃣ How to handle file upload & download?
+🔟 How does Playwright handle shadow DOM?
+
+🔥 Real-Time Scenario-Based Questions (Very Important)
+✔️ How will you handle dynamic elements without using hard waits?
+✔️ How will you validate network API responses in UI tests?
+✔️ How will you implement retry logic for flaky tests?
+✔️ How will you integrate Playwright with CI/CD (Jenkins/GitHub Actions)?
+✔️ How will you generate and customize Playwright HTML reports?
+✔️ How will you implement Page Object Model in Playwright?
+✔️ How to mock APIs in Playwright?
+✔️ How will you test multi-user login scenarios?
+
+💡 Pro Tip for Interviews:
+If you only explain syntax, you’ll get average feedback.
+If you explain architecture + strategy + real project implementation, you’ll get selected.
+
+If you want: 
+📌 Real-time answers
+📌 Framework structure explanation
+📌 Mock interview questions
+📌 Mini Playwright project structure
